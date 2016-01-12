@@ -1,0 +1,21 @@
+# ---------------------------------------------------------------------------
+# SELECT DISTINCT set_id FROM density_barley
+# ---------------------------------------------------------------------------
+"500000_win_100000_shift__GC_percent"
+"500000_win_100000_shift__N_percent"
+"500000_win_100000_shift__barley_cds"
+"500000_win_100000_shift__ryeSNPmarker1R_win500000_vs_barley"
+"500000_win_100000_shift__ryeSNPmarker1R_win500000_vs_barley_relative"
+"500000_win_100000_shift__ryeSNPmarker2R_win500000_vs_barley"
+"500000_win_100000_shift__ryeSNPmarker2R_win500000_vs_barley_relative"
+"500000_win_100000_shift__ryeSNPmarker3R_win500000_vs_barley"
+"500000_win_100000_shift__ryeSNPmarker3R_win500000_vs_barley_relative"
+"500000_win_100000_shift__ryeSNPmarker4R_win500000_vs_barley"
+"500000_win_100000_shift__ryeSNPmarker4R_win500000_vs_barley_relative"
+"500000_win_100000_shift__ryeSNPmarker5R_win500000_vs_barley"
+"500000_win_100000_shift__ryeSNPmarker5R_win500000_vs_barley_relative"
+"500000_win_100000_shift__ryeSNPmarker6R_win500000_vs_barley"
+"500000_win_100000_shift__ryeSNPmarker6R_win500000_vs_barley_relative"
+"500000_win_100000_shift__ryeSNPmarker7R_win500000_vs_barley"
+"500000_win_100000_shift__ryeSNPmarker7R_win500000_vs_barley_relative"
+# ---------------------------------------------------------------------------
