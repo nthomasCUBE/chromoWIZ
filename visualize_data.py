@@ -24,6 +24,8 @@ import config_file_creator
 image_export_possible = True
 
 try:
+    sys.path.append("Imaging-1.1.6/build/lib.linux-x86_64-2.7/")
+    #sys.path.append("Imaging-1.1.6/PIL")
     import Image
     import ImageDraw
 except Exception:
